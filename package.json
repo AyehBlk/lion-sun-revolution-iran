@@ -1,0 +1,12 @@
+{
+  "name": "lion-sun-revolution-iran",
+  "version": "1.0.0",
+  "description": "Email campaign tool — Lion and Sun Revolution Iran",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
